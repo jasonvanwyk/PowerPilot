@@ -1,7 +1,9 @@
 ```markdown
 # PowerPilot
 
-> A Wi‑Fi energy meter for single‑ and three‑phase (120 V/230 V, up to 500 A) installations — measuring voltage, current, active/reactive/apparent power, kWh, and frequency in real time and streaming data via MQTT/REST into a Dockerized PostgreSQL backend.
+> A Wi‑Fi energy meter for single‑ and three‑phase (120 V/230 V, up to 500 A) installations — measuring voltage, 
+current, active/reactive/apparent power, kWh, and frequency in real time and streaming data via MQTT/REST 
+into a Dockerized PostgreSQL backend.
 
 ---
 
